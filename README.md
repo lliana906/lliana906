@@ -8,9 +8,11 @@
 반도체 공정 이해를 바탕으로 AI와 빅데이터 분석으로 품질 문제를 파악하고,  
 데이터와 제품 이해를 연결해 신뢰성 향상에 기여하고 싶습니다. ✨
 
+<br/>
+
 ---
 
-🛠 Skills
+## 🛠 Skills
 
 **Programming & Embedded**
 
@@ -27,9 +29,11 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
+<br/>
+
 ---
 
-🚀 Project
+## 🚀 Project
 
 | PERIOD | TITLE | SUBJECT |
 |--------|-------|---------|
@@ -46,6 +50,20 @@
 | 2023 | 생태조경디자인 작품 공모전 | 최우수상 — 한국식생학회 |
 | 2023 | 신안군 자연환경 생태조경 발표 대회 | 최우수상 — 1004섬 신안 |
 
+<br/>
+
 ---
 
-📜 Cert : 전기기사 · 품질경영기사 · 빅데이터분석기사 · 정보처리기사 · 컴활 1급
+## 📜 Certifications
+
+**National License**
+
+![전기기사](https://img.shields.io/badge/전기기사-2025-F59E0B?style=flat-square)
+![품질경영기사](https://img.shields.io/badge/품질경영기사-2024-10B981?style=flat-square)
+![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-2023-3B82F6?style=flat-square)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-2023-8B5CF6?style=flat-square)
+![컴퓨터활용능력1급](https://img.shields.io/badge/컴퓨터활용능력_1급-2022-6B7280?style=flat-square)
+
+**Language**
+
+![TOEIC Speaking](https://img.shields.io/badge/TOEIC_Speaking-AL_160-22D3EE?style=flat-square)
