@@ -1,3 +1,7 @@
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://kyj-01-p.notion.site/3106ea0bf552807fbdd2c3dbbdcaadaf)
+[![Gmail](https://img.shields.io/badge/lliana1045@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lliana1045@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lliana906-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lliana906)
+
 ## Hi I'm Yujeong Kim 👋🌿🔬
 
 Semiconductor Quality & Embedded Engineer
@@ -29,11 +33,21 @@ Semiconductor Quality & Embedded Engineer
 
 🛠 Skill
 
-`C` / `Python` / `STM32` / `FPGA(Basys3)` / `Colab` / `Photoshop` / `Illustrator`
+**Programming & Embedded**
 
-📜 Cert : 전기기사 · 품질경영기사 · 빅데이터분석기사 · 정보처리기사 · 컴활 1급
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_Basys3-6B21A8?style=flat-square)
+
+**Design & Tools**
+
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ---
 
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion)](https://kyj-01-p.notion.site/3106ea0bf552807fbdd2c3dbbdcaadaf)
-[![Email](https://img.shields.io/badge/Email-lliana1045@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lliana1045@naver.com)
+📜 Cert : 전기기사 · 품질경영기사 · 빅데이터분석기사 · 정보처리기사 · 컴활 1급
